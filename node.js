@@ -1,8 +1,7 @@
-module.exports = () => {
-const chalk = require('chalk');
-const log = console.log;
 
-log(chalk.blue('Julien')); 
-log(chalk.white('Inès'));
-log(chalk.pink('Marion'));
-log(chalk.yellow('Lucie'));
+const chalk = require('chalk');
+
+console.log(chalk.blue('Julien'))
+console.log(chalk.white('Inès'))
+console.log(chalk.red('Marion'))
+console.log(chalk.yellow('Lucie'))
