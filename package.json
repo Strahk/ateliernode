@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "affichage color",
+  "main": "node.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"start\"{node node.js}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strahk/ateliernode.git"
+  },
+  "author": "Isma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strahk/ateliernode/issues"
+  },
+  "homepage": "https://github.com/Strahk/ateliernode#readme"
+}
